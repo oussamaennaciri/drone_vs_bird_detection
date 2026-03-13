@@ -3,7 +3,7 @@
 Binary image classifier that tells drones and birds apart from aerial photos. Built as a capstone project for MSDS 686 Deep Learning.
 
 ## What I did
-Started with a naive baseline of 60.9% and worked up through logistic regression, custom CNNs, and finally MobileNetV2 transfer learning to hit 99.5% test accuracy, only 2 mistakes out of 404 test images, both traced back to watermarked photos in the dataset.
+Started with a naive baseline of 60.9% and worked up through logistic regression, custom CNNs, and finally MobileNetV2 transfer learning to hit 99.5% test accuracy, only 2 mistakes out of 404 test images, both traced back to watermarked photos in the dataset. This project is finished but can be improved by further data cleaning.
 
 ## Models tested
 - Naive baseline : 60.9%
